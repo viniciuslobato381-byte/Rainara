@@ -1,0 +1,19 @@
+/* Estilo do corpo da página */
+body {
+  font-family: "Times New Roman", sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+
+/* Parágrafo */
+p {
+    font-size: 18px;
+}
